@@ -4,7 +4,7 @@
 
 
 // script.js
-const url = "https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=1977755&s3=landing3&s5=julio-17&click_id=imone-ads&ban=twitter&j1=1&j6=1";
+const url = "next";
 
 document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
     enlace.href = url; // Asigna la URL almacenada en la variable url al atributo href del enlace
@@ -12,7 +12,7 @@ document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
 
 // script.js
 document.getElementById('thumbnail').addEventListener('click', function() {
-    window.location.href = 'https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=1977755&s3=landing3&s5=julio-17&click_id=imone-ads&ban=twitter&j1=1&j6=1';
+    window.location.href = 'next';
 });
 
 
